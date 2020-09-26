@@ -1,9 +1,12 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- layout: left
+  name: Devbie
+  link: https://devbie.kr
+  github: woowacourse-teams/2020-devbie
   quote: >
-    Short overview of the project (optional)
+    신입 개발자들을 위한 정보공유 플랫폼입니다
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등의 기술스택을 이용했습니다
+    - WebSocket, Stomp를 이용한 채팅 구현을 담당했습니다.
+    - 도커, CI/CD, Nginx 등의 기반작업을 담당했습니다.
+    - 좋아요, 댓글, 회원가입 기능을 협업으로 진행했습니다.
