@@ -26,7 +26,7 @@ github_username:  KimSeongGyu1
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/developer.png
 about_content: | # this will include new lines to allow paragraphs
   <mark>Java 벡엔드 개발자</mark>입니다. 우아한 테크코스를 통해 개발자의 길을 시작했습니다.
 
