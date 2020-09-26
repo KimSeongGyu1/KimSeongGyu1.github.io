@@ -28,7 +28,16 @@ github_username:  KimSeongGyu1
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Java 벡엔드 개발자입니다. 우아한 테크코스를 시작으로 개발자의 길을 시작했습니다.
+  <mark>Java 벡엔드 개발자</mark>입니다. 우아한 테크코스를 통해 개발자의 길을 시작했습니다.
+
+  <mark>테스트 코드</mark>를 시작으로 자바를 배웠으며, 테스트 작성을 당연하게 생각합니다.
+
+  <mark>정직함</mark>과 <mark>배려</mark>를 중요하게 생각하며 협업하기 좋은 팀원이 되기 위해 노력합니다.
+
+
+
+
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
