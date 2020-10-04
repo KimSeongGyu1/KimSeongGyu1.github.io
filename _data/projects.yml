@@ -14,7 +14,7 @@
 
 - layout: left
   name: YuanGallery
-  link: http://yuangallery.com
+  link: https://yuangallery.com
   github: KimSeongGyu1/YuanGallery
   quote: >
     직접 사용하기 위해 만든 검색 서비스입니다.
