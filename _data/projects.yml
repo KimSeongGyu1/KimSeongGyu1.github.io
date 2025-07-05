@@ -4,8 +4,61 @@
     2024 ~ 2025 <br>
     EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
   description: | # this will include new lines to allow paragraphs
-    - EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
-    - elasticsearch 클러스터 
+    - IaC를 도입하게 되어 인프라 변경,추적 등 관리가 용이해지는 효과를 얻음
+    - 기존에 하루 이상 걸리던 클러스터 생성/삭제가 10분 이내로 간단해지며 테스트용으로도 자유롭게 사용 가능해짐
+
+- layout: left
+  name: GPT 브로셔 서비스 개발
+  quote: >
+    2023 <br>
+    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+  description: | # this will include new lines to allow paragraphs
+    - 
+    - 
+
+- layout: left
+  name: 형태소분석기 라이브러리화
+  quote: >
+    2023 <br>
+    Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
+  description: | # this will include new lines to allow paragraphs
+    - 
+
+
+- layout: left
+  name: 검색플랫폼 배민스토어 연동
+  quote: >
+    2022 ~ 2023 <br>
+    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+  description: | # this will include new lines to allow paragraphs
+    - 
+    - 
+
+- layout: left
+  name: 검색플랫폼 시스템 구축
+  quote: >
+    2022 <br>
+    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+  description: | # this will include new lines to allow paragraphs
+    - 
+    - 
+
+- layout: left
+  name: 형태소분석기 불용어 처리 개선
+  quote: >
+    2022 <br>
+    Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
+  description: | # this will include new lines to allow paragraphs
+    - Nori의 기본 불용어 처리 기능은 순수 문자열로만 처리됨
+    - 형태소 변환까지 고려하여 적절하게 불용어 처리가 되도록 개선 
+
+- layout: left
+  name: 통합검색 구축
+  quote: >
+    2021 <br>
+    Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
+  description: | # this will include new lines to allow paragraphs
+    - 
 
 
 # Project template
