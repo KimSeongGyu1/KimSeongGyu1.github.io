@@ -9,3 +9,15 @@
   description: | # this will include new lines to allow paragraphs
     - 검색 서비스 개발 및 운영
     - 대규모 트래픽 처리 시스템(초당 500건 이상) 설계, 개발, 성능 최적화
+
+- layout: left
+  name: 우아한테크코스
+  link: https://woowacourse.github.io
+  dates: 2020.02 ~ 2020.11
+  quote: >
+    일반 사용자용 서비스를 개발하는 회사가 필요로 하는 역량을 가진 개발자 양성 교육
+  description: | # this will include new lines to allow paragraphs
+    - Java, Spring Boot 이용한 백엔드 개발을 배웠습니다
+    - 자기주도적인 공동 학습, TDD, 페어 프로그래밍에 대한 가치를 배우고 실행했습니다
+    - [우아한테크코스 소개](https://www.youtube.com/watch?v=pvUTTfLphIo)
+    - [우아한테크코스 활동 기록](https://github.com/KimSeongGyu1/woowacourse-projects)
