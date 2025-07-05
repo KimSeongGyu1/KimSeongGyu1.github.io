@@ -2,6 +2,7 @@
   name: ECK 도입
   quote: >
     2024 ~ 2025
+    
     EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
   description: | # this will include new lines to allow paragraphs
     - EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
