@@ -4,8 +4,10 @@
     2024 ~ 2025 <br>
     EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
   description: | # this will include new lines to allow paragraphs
-    - IaC를 도입하게 되어 인프라 변경,추적 등 관리가 용이해지는 효과를 얻음
-    - 기존에 하루 이상 걸리던 클러스터 생성/삭제가 10분 이내로 간단해지며 테스트용으로도 자유롭게 사용 가능해짐
+    - IaC를 도입하게 되어 인프라 변경,추적이 용이해짐
+    - 하루이상 걸리던 인프라 생성/삭제를 10분 이내로 수행할 수 있게 하여 테스트에서도 자유롭게 활용 가능하도록 함
+    - helm chart, argoCD를 활용하여 코드기반을 만들고 개선하는 작업을 수행함
+    - k8s에 대한 지식 없이 시작하여 1분기 내에 돌아가는 시스템 구축에 성공함
 
 - layout: left
   name: GPT 검색연동 개발
@@ -14,30 +16,16 @@
     리뷰데이터를 GPT로 분석하여 컨텍스트 키워드를 뽑아내고 이를 검색에 활용
   description: | # this will include new lines to allow paragraphs
     - "출근할 때 먹고싶은 커피"와 같은 탐색이 가능해짐
-
-- layout: left
-  name: 형태소분석기 라이브러리화
-  quote: >
-    2023 <br>
-
-  description: | # this will include new lines to allow paragraphs
-    - 
-
-- layout: left
-  name: 검색플랫폼 배민스토어 연동
-  quote: >
-    2022 ~ 2023 <br>
-    배민스토어에서 검색기능 사용 가능하도록 플랫폼 연동
-  description: | # this will include new lines to allow paragraphs
-    - 
+    - python을 활용하여 임베딩된 리뷰데이터를 검색 시스템에서 활용할 수 있도록 가공하는 부분을 담당하였음
+    - 검색에서 활용할 수 있게 가공된 데이터를 검색 시스템에서 사용자에게 서빙하는 부분도 담당하였음
 
 - layout: left
   name: 검색플랫폼 개발
   quote: >
     2022 <br>
-    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 시스템 개발
+    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 시스템 설계, 개발
   description: | # this will include new lines to allow paragraphs
-    -  
+    - 시스템 설계부터 참여하여 개발까지 진행
 
 - layout: left
   name: 형태소분석기 불용어처리 개선
@@ -47,14 +35,6 @@
   description: | # this will include new lines to allow paragraphs
     - Nori의 기본 불용어 처리 기능은 순수 문자열로만 처리됨
     - 형태소 변환까지 고려하여 적절하게 불용어 처리가 되도록 개선 
-
-- layout: left
-  name: 통합검색 개발
-  quote: >
-    2021 <br>
-    배달, 비마트 동시에 검색 할 수 있도록 시스템 개발
-  description: | # this will include new lines to allow paragraphs
-    - 
 
 # Project template
 - layout: left
