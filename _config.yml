@@ -28,7 +28,7 @@ github_username:  KimSeongGyu1
 about_title:
 #about_profile_image: images/developer.png
 about_content: | # this will include new lines to allow paragraphs
-  • <mark>초당 500건 이상</mark>의 검색 요청을 처리하는 배달의 민족 검색 시스템을 개발·운영했습니다
+  • 초당 500건 이상의 검색 요청을 처리하는 배달의 민족 검색 시스템을 개발·운영했습니다
   
   • Java, Spring, Elasticsearch, k8s 등 기술을 능숙하게 활용 가능합니다
   
