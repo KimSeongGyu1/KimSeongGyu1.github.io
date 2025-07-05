@@ -8,43 +8,39 @@
     - 기존에 하루 이상 걸리던 클러스터 생성/삭제가 10분 이내로 간단해지며 테스트용으로도 자유롭게 사용 가능해짐
 
 - layout: left
-  name: GPT 브로셔 서비스 개발
+  name: GPT 검색연동 개발
   quote: >
     2023 <br>
-    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+    리뷰데이터를 GPT로 분석하여 컨텍스트 키워드를 뽑아내고 이를 검색에 활용
   description: | # this will include new lines to allow paragraphs
-    - 
-    - 
+    - "출근할 때 먹고싶은 커피"와 같은 탐색이 가능해짐
 
 - layout: left
   name: 형태소분석기 라이브러리화
   quote: >
     2023 <br>
-    Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
+
   description: | # this will include new lines to allow paragraphs
     - 
-
 
 - layout: left
   name: 검색플랫폼 배민스토어 연동
   quote: >
     2022 ~ 2023 <br>
-    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+    배민스토어에서 검색기능 사용 가능하도록 플랫폼 연동
   description: | # this will include new lines to allow paragraphs
-    - 
     - 
 
 - layout: left
-  name: 검색플랫폼 시스템 구축
+  name: 검색플랫폼 개발
   quote: >
     2022 <br>
-    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 플랫폼 구축
+    타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 시스템 개발
   description: | # this will include new lines to allow paragraphs
-    - 
-    - 
+    -  
 
 - layout: left
-  name: 형태소분석기 불용어 처리 개선
+  name: 형태소분석기 불용어처리 개선
   quote: >
     2022 <br>
     Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
@@ -53,13 +49,12 @@
     - 형태소 변환까지 고려하여 적절하게 불용어 처리가 되도록 개선 
 
 - layout: left
-  name: 통합검색 구축
+  name: 통합검색 개발
   quote: >
     2021 <br>
-    Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
+    배달, 비마트 동시에 검색 할 수 있도록 시스템 개발
   description: | # this will include new lines to allow paragraphs
     - 
-
 
 # Project template
 - layout: left
@@ -69,9 +64,9 @@
   quote: >
     우아한테크코스 프로젝트
   description: | # this will include new lines to allow paragraphs
-    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등을 사용했습니다
-    - jacoco를 이용해 테스트 커버리지 80%이상을 항상 검증하며 CI했습니다
-    - GitHub Flow를 이용하며 코드리뷰를 항상 진행했습니다
-    - WebSocket, Stomp를 이용한 채팅 구현을 담당했습니다
-    - 도커, CI/CD, Nginx 등의 기반작업을 담당했습니다
-    - 좋아요, 댓글, 회원가입 기능을 협업으로 진행했습니다
+    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등을 활용
+    - jacoco를 이용해 테스트 커버리지 80%이상을 항상 검증하며 CI
+    - GitHub Flow를 이용하며 코드리뷰를 항상 진행
+    - WebSocket, Stomp를 이용한 채팅 구현을 주로 담당
+    - 도커, CI/CD, Nginx 등의 기반작업을 주로 담당
+    - 좋아요, 댓글, 회원가입 기능을 협업으로 진행
