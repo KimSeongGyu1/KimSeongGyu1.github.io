@@ -1,8 +1,7 @@
 - layout: left
   name: ECK 도입
   quote: >
-    2024 ~ 2025
-    
+    2024 ~ 2025 <br>
     EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
   description: | # this will include new lines to allow paragraphs
     - EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
@@ -15,7 +14,7 @@
   link:
   github: woowacourse-teams/2020-devbie
   quote: >
-    우아한테크코스
+    우아한테크코스 프로젝트
   description: | # this will include new lines to allow paragraphs
     - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등을 사용했습니다
     - jacoco를 이용해 테스트 커버리지 80%이상을 항상 검증하며 CI했습니다
