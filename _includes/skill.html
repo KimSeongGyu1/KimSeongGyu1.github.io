@@ -1,6 +1,5 @@
 <div class="container experience-container">
     <h3>{{ site.skill_title | default: "Skill" }}</h3>
-    <p class="quote"> 현재 사용중 또는 사용했던 기술들입니다.</p>
     {% for experience in site.data.skill %}
     {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
     {% endfor %}

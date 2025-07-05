@@ -6,7 +6,7 @@
     - <mark>Javascript</mark>도 활용했습니다. 실무에서는 백오피스 관리에 사용하였습니다
 
 - layout: left
-  name: 프레임워크 및 라이브러리
+  name: 프레임워크/라이브러리
   description: | # this will include new lines to allow paragraphs
     - <mark>Spring</mark>, <mark>JPA</mark>, <mark>Gradle</mark> 등을 활용한 백엔드 시스템 개발 경험이 많습니다  
     - <mark>React</mark>, <mark>Vue</mark> 모두 활용하여 백오피스 관리 경험이 있습니다
@@ -18,7 +18,7 @@
     - <mark>RDBMS(AWS Aurora MySQL)</mark>, <mark>NoSQL(Redis, DynamoDB)</mark> 등 다양한 데이터 베이스 경험이 있습니다  
 
 - layout: left
-  name: 클라우드 및 인프라
+  name: 클라우드/인프라
   description: | # this will include new lines to allow paragraphs
     - <mark>AWS(EC2, S3, EFS, SQS 등)</mark> 환경에서의 시스템 설계, 배포, 운영경험이 많습니다
     - <mark>Docker</mark> 기반 컨테이너 환경에 대한 이해도가 있습니다. <mark>kubernetes</mark>,<mark>helm</mark>,<mark>argoCD</mark>를 활용하여 ECK 환경을 구축해본 경험이 있습니다. 
