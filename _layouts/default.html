@@ -16,6 +16,10 @@
 
       {%- include about.html -%}
 
+      {%- if site.data.experience.size > 0 -%}
+      {%- include experience.html -%}
+      {%- endif -%}
+
       {%- if site.data.skill.size > 0 -%}
       {%- include skill.html -%}
       {%- endif -%}
