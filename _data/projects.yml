@@ -1,25 +1,24 @@
+- layout: left
+  name: ECK 도입
+  quote: >
+    2024 ~ 2025
+    EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
+  description: | # this will include new lines to allow paragraphs
+    - EC2 인스턴스에 올려서 사용하던 elasticsearch를 ECK로 전환
+    - elasticsearch 클러스터 
+
+
 # Project template
 - layout: left
   name: Devbie
-  link: https://devbie.kr
+  link:
   github: woowacourse-teams/2020-devbie
   quote: >
-    신입 개발자들을 위한 정보공유 플랫폼입니다
+    우아한테크코스
   description: | # this will include new lines to allow paragraphs
-    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등의 기술스택을 이용했습니다
+    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등을 사용했습니다
     - jacoco를 이용해 테스트 커버리지 80%이상을 항상 검증하며 CI했습니다
     - GitHub Flow를 이용하며 코드리뷰를 항상 진행했습니다
     - WebSocket, Stomp를 이용한 채팅 구현을 담당했습니다
     - 도커, CI/CD, Nginx 등의 기반작업을 담당했습니다
     - 좋아요, 댓글, 회원가입 기능을 협업으로 진행했습니다
-
-- layout: left
-  name: YuanGallery
-  link: https://yuangallery.com
-  github: KimSeongGyu1/YuanGallery
-  quote: >
-    직접 사용하기 위해 만든 검색 서비스입니다
-  description: | # this will include new lines to allow paragraphs
-    - Spring Boot, Spring Data Jpa, Vue.js, Docker, Nginx, EC2 등의 기술스택을 이용했습니다
-    - jacoco를 이용해 테스트 커버리지 90%이상을 항상 검증하며 CI합니다
-    - 개인으로 혼자 전부 작업했습니다
