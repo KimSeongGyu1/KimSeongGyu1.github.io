@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     - IaC를 도입하게 되어 인프라 변경,추적이 용이해짐
     - 하루이상 걸리던 인프라 생성/삭제를 10분 이내로 수행할 수 있게 하여 테스트에서도 자유롭게 활용 가능하도록 함
-    - helm chart, argoCD를 활용하여 코드기반을 만들고 개선하는 작업을 수행함
+    - helm chart, argoCD를 활용하여 처음부터 기반을 구축하였음
     - k8s에 대한 지식 없이 시작하여 1분기 내에 돌아가는 시스템 구축에 성공함
 
 - layout: left
@@ -26,6 +26,7 @@
     타팀에서 간단하게 검색 기능을 사용할 수 있도록 도와주는 시스템 설계, 개발
   description: | # this will include new lines to allow paragraphs
     - 시스템 설계부터 참여하여 개발까지 진행
+    - 어드민, 데이터 적재, 검색 서빙 전반적인 작업 진행하였음
 
 - layout: left
   name: 형태소분석기 불용어처리 개선
@@ -33,8 +34,7 @@
     2022 <br>
     Nori 불용어 처리시 형태소 분석할 수 있도록 커스터마이징
   description: | # this will include new lines to allow paragraphs
-    - Nori의 기본 불용어 처리 기능은 순수 문자열로만 처리됨
-    - 형태소 변환까지 고려하여 적절하게 불용어 처리가 되도록 개선 
+    - Nori의 기본 불용어 처리 기능은 순수 문자열로만 처리되는데 형태소 변환까지 고려하여 처리할 수 있도록 개선함
 
 # Project template
 - layout: left
