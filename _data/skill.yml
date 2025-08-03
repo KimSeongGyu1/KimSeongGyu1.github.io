@@ -22,4 +22,4 @@
   description: | # this will include new lines to allow paragraphs
     - <mark>AWS(EC2, S3, EFS, SQS 등)</mark> 환경에서의 시스템 설계, 배포, 운영경험이 많습니다
     - <mark>Docker</mark> 기반 컨테이너 환경에 대한 이해도가 있습니다. <mark>kubernetes</mark>,<mark>helm</mark>,<mark>argoCD</mark>를 활용하여 ECK 환경을 구축해본 경험이 있습니다. 
-    - <mark>Github CI</mark>를 이용한 CI 구축 및 관리 경험이 있습니다
+    - <mark>Gitlab CI</mark>를 이용한 CI 구축 및 관리 경험이 있습니다
